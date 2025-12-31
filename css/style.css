@@ -175,6 +175,10 @@ sup {
     border-left: 0px solid #282c3f;
 }    
 
+.action {
+    cursor: pointer;
+}
+
 .action_bar {
     display: flex;
     min-width: 200px;
